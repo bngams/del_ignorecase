@@ -2,3 +2,4 @@ node_modules
 custom/config.json
 .htaccess
 build
+dolifresh.sql
