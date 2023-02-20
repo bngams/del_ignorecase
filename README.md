@@ -1,0 +1,2 @@
+# del_ignorecase
+TEST
